@@ -1,0 +1,92 @@
+body {
+    background-image: url("notebook.png");
+    background-repeat: no-repeat;
+    background-size: 2135px 1050px;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+.copy_right_footer {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-left: px;
+    margin-top: px;
+
+
+}
+
+img {
+    margin-left: 20px
+}
+
+#p1,
+#p2,
+#p3,
+#p4 {
+    margin-top: 80px;
+    margin-bottom: 100px;
+
+}
+
+#h2 {
+    font-size: 67px;
+    margin-top: 20px;
+    margin-left: 100px;
+    font-family: 'Patrick Hand';
+    font-weight: 500;
+    letter-spacing: 4px;
+
+}
+
+#h3 {
+    font-size: 25px;
+    margin-top: 130px;
+    margin-left: 30px;
+    font-family: 'Patrick Hand';
+    font-weight: 200;
+    transform: rotate(2.3deg);
+    letter-spacing: 1.9px;
+
+}
+
+#btn {
+    margin-top: 450px;
+    margin-left: -200px;
+    height: 50px;
+    width: 150px;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    letter-spacing: 4px;
+    background-color: #fffbf8;
+    border-color: #ffffff00;
+    border-width: 0px;
+    border-radius: 20px;
+}
+
+#btn:hover {
+    transform: scale(1.3);
+    border-color: #ffffff00;
+
+}
+
+#resultll {
+    font-size: 25px;
+    margin-left: -400px;
+    font-family: 'Patrick Hand';
+    transform: rotate(2.2deg);
+    font-weight: 200;
+    letter-spacing: 1.9px;
+}
+
+#res {
+    font-size: 25px;
+    margin-top: -40px;
+    transform: rotate(2.2deg);
+    margin-left: 150px;
+    font-family: 'Patrick Hand';
+    font-weight: 200;
+    letter-spacing: 1.9px;
+}
